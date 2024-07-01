@@ -1,12 +1,12 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/Shahil9728/TourTap/ -->
+<!-- Improved compatibility of back to top link: See: https://github.com/htomar2003/Tourtap.git -->
 <a name="readme-top"></a>
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Shahil9728/TourTap">
-    <img src="https://github.com/Shahil9728/TourTap/assets/96991517/0581cf9d-93b7-417b-9fce-815d5e9b25b6" alt="Logo" width="80" height="80">
+  <a href="https://github.com/htomar2003/Tourtap.git">
+    <img src="https://github.com/htomar2003/Tourtap.git/assets/96991517/0581cf9d-93b7-417b-9fce-815d5e9b25b6" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><a href="https://tourtap.netlify.app/" target="_blank">TourTap</a></h3>
@@ -33,7 +33,7 @@ Welcome to TourTap! Discover the world's best hotels, restaurants, and attractio
 ## Step 1
 Clone the Github Repository
 ```shell
-git clone https://github.com/Shahil9728/TourTap
+git clone https://github.com/htomar2003/Tourtap.git
 ```
 
 ## Step 2
@@ -73,8 +73,8 @@ This section lists about the languages used in this project .
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Shahil9728](https://twitter.com/ShahilV27515989) - shahilverma91383@gmail.com
+Himanshu Tomar - [@htomar2003](https://twitter.com/htomar2003) - htomar3490@gmail.com
 
-Project Link: [https://tourtap.netlify.app//](https://tourtap.netlify.app//)
+Project Link: [https://github.com/htomar2003/Tourtap](https://github.com/htomar2003/Tourtap)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
