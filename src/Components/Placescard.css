@@ -1,0 +1,31 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+    box-shadow: 3px 3px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 0.5rem;
+    padding: 10px;
+}
+
+.cardimg {
+    width: 150px;
+    height: 150px;
+    border-radius: 0.5rem;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0rem;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.content p {
+    margin: 0rem;
+}
+
+.content p{
+    font-size: 0.8rem;
+}
